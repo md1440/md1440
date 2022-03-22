@@ -37,7 +37,8 @@ I don’t care about semi-colons, but ESLint does, great...  yes TypeScript is a
 <h3 align="left">Stats:</h3>
 <br>
 <div>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=md1440&" alt="md1440" />
+<p align="center"><img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=md1440&" alt="md1440" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=md1440&show_icons=true&locale=en&layout=compact" alt="md1440"</p>
 </div>
 
 
