@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **md1440/md1440** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,8 +17,12 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Marc</h1>
 <h3 align="center">A passionate fullstack js dev from Germany</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="left">About me:</h3>
+<p align="left">I am from Germany and 38 years old. I love to work with TailwindCSS. I appreciate clean code and robust architecture. I like good code documentation and meaninful git commits. I like functions but don’t mind classes.. 
+
+I adore good ui ux, best built from fullstack.. yes I love fullstack... and no, I don’t mind writing tests..
+
+I don’t care about semi-colons, but ESLint does, great...  yes TypeScript is awesome! I like the outdoors and love climbing mountains with my bicycle...
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
