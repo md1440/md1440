@@ -40,6 +40,7 @@ I don’t care about semi-colons, but ESLint does, great...  yes TypeScript is a
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=md1440&repo=node-api-moviedb)](https://github.com/md1440/node-api-moviedb)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=md1440&repo=nestjs-car-estimator-api)](https://github.com/md1440/nestjs-car-estimator-api)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=md1440&repo=coffee-connoisseur)](https://github.com/md1440/coffee-connoisseur)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=md1440&repo=bookmark-landing-page-master)](https://github.com/md1440/bookmark-landing-page-master)
 
 <h3 align="left">Stats:</h3>
 <br>
