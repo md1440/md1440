@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!--
 <h1 align="center">Hi 👋, I'm Marc</h1>
 <br>
 
@@ -24,6 +25,7 @@ I adore good ui ux, best built from fullstack.. yes I love fullstack... and no, 
 
 I don’t care about semi-colons, but ESLint does, great...  yes TypeScript is awesome! I like the outdoors and love climbing mountains with my bicycle...
 </p>
+-->
 
 <br>
 <h3 align="left">Languages and Tools:</h3>
